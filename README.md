@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 Olá, eu me chamo Mariana e sou estudante de Análise e Desenvolvimento de Sistemas
-
-🌱 Atualmente estou aprendendo HTML, CSS e Javascript
-🔭 Estou em busca de um estágio na área de desenvolvimento
+<br/>🌱 Atualmente estou aprendendo HTML, CSS e Javascript
+<br/>🔭 Estou em busca de um estágio na área de desenvolvimento
 <!--
 **marilorenzine/marilorenzine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
